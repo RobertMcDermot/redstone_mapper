@@ -11,7 +11,7 @@ dependencies:
   redstone:
   analyzer: "^0.27.0"
   code_transformers: "^0.4.2"
-  di: "^3.3.6"
+  di: "^3.3.9"
 dev_dependencies:
   test: "^0.12.6"
 transformers:
